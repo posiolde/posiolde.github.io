@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://posiolde.github.io/sitemap.posiolde.gz
+Sitemap: https://posiolde.github.io/app/sitemap.posiolde.gz
+Sitemap: https://posiolde.github.io/assets/sitemap.posiolde.gz
+Sitemap: https://posiolde.github.io/css/sitemap.posiolde.gz
+Sitemap: https://posiolde.github.io/data/sitemap.posiolde.gz
+Sitemap: https://posiolde.github.io/includes/sitemap.posiolde.gz
+Sitemap: https://posiolde.github.io/item/sitemap.posiolde.gz
+Sitemap: https://posiolde.github.io/src/sitemap.posiolde.gz
